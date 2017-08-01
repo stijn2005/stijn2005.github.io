@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welkom op dit loom bedrijf"
 date:   2017-08-01 12:47:46 +0000
 categories: jekyll update
 ---
